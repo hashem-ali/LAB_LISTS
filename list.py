@@ -21,3 +21,7 @@ print(max)
 new_list = [x for x in my_list if x % 2 == 0 ]
 
 print(new_list)
+
+### Q4 ###
+sliced_list = new_list[ :5]
+print(sliced_list)
